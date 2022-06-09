@@ -7,7 +7,7 @@ title: Welcome to my site
 # if not specified, .name will be used from _data/owner.yml
 author: IE Flores
 # multiple category is not supported
-category: Welcome
+category: welcome
 # multiple tag entries are possible
 tags: [jekyll, welcome, test]
 # thumbnail image for post
@@ -38,9 +38,8 @@ date: 2022-06-09 10:04:30 -0500
 ---
 <!-- outline-start -->
 
-# Welcome
 
-Hello and welcome, my name is Juan Arturo, I&apos;m Electronic Engineer and Master at applied computing. This is my personal blog and I&apos;ll show you some personal projects.
+Hello and welcome, my name is Juan Arturo.<!-- outline-end --> I&apos;m Electronic Engineer and Master at applied computing. This is my personal blog and I&apos;ll show you some personal projects.
 
 Among my knowledge and skills is the knowledge of Python, robotics, instrumentation electronics and others.
 
