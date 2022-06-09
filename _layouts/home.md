@@ -3,7 +3,7 @@
 # Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com
 # Licensed under MIT
 
-layout: default 
+layout: default
 # main page (index.html)
 ---
 {%- include multi_lng/get-pages-by-lng.liquid pages = site.posts -%}
